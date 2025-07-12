@@ -1,4 +1,4 @@
-package dp;
+package leetcode;
 
 public class JumpGame_45 {
     public static void main(String[] args) {
